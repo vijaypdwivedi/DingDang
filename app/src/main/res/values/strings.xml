@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DingDang</string>
+    <string name="action_settings">Settings</string>
+    <string name="reset">Reset</string>
+    <string name="exit">Exit game</string>
+    <string name="newgame">New game against android</string>
+    <string name="human">New game against human </string>
+    <string name="about">About game</string>
+    <string name="back">Main menu</string>
+
+
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="player_button">Next</string>
+    <string name="player_button2">Back</string>
+    <string name="player_text">Ding-Dang players!! </string>
+
+</resources>
